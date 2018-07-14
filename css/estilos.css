@@ -2,6 +2,9 @@ body {
  margin: 0;
  background-color: #aaaaaa;
  text-align: center;
+ -webkit-box-shadow: 7px 7px 5px 0px rgba(124, 50, 51, 0.75);
+-moz-box-shadow:    7px 7px 5px 0px rgba(124, 50, 51, 0.75);
+box-shadow:         7px 7px 5px 0px rgba(124, 50, 51, 0.75);
 }
 #header {
  background-color: #0000ff;
@@ -19,4 +22,7 @@ body {
  right: 0;
  width: 198px;
  background-color: #00ff00;
+}
+#micaja {
+box-shadow: 2px 2px 1px rgba(50, 50, 50, 0.75);
 }

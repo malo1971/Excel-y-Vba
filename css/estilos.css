@@ -1,0 +1,22 @@
+body {
+ margin: 0;
+ background-color: #aaaaaa;
+ text-align: center;
+}
+#header {
+ background-color: #0000ff;
+ color: #ffffff;
+ text-align: center;
+ font-size: 2em;
+}
+#content {
+ position: relative;
+}
+
+#sidebar {
+ position: absolute;
+ top: 0;
+ right: 0;
+ width: 198px;
+ background-color: #00ff00;
+}
